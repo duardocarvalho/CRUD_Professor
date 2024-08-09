@@ -1,5 +1,5 @@
 # CRUD_Professor
-Sistema de gerenciamento de professores em Java com funcionalidades CRUD
+Sistema de gerenciamento de professores em Java com funcionalidades CRUD desenvolvido para a diciplina de Ferramentas de Programação I
 
 Utilizado:
 
